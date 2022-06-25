@@ -1,4 +1,6 @@
-# Grading-on-marks
+### EX NO : 03
+### DATE  : 07.04.2022
+# <p align="center">Grading-on-marks</p>
 
 ## Aim:
 To write a C# program to grade the marks
@@ -21,6 +23,7 @@ print the grade for the given mark
 
 ### Step6:
 stop
+<br/><br/><br/><br/><br/><br/>
 
 ## Program:
 ```
@@ -57,7 +60,8 @@ namespace Arun
 
 
 ## Output:
-![Ex2](https://user-images.githubusercontent.com/75235747/163857314-e8ae810e-45bc-4c44-b768-363a12f23980.PNG)
+![image](https://user-images.githubusercontent.com/75235747/175766456-8019dbec-4bc1-435a-9e51-5174bbe9e2e5.png)
+
 
 
 ## Result:
